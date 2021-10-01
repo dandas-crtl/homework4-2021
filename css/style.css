@@ -104,6 +104,10 @@ table{
     border-radius: 50px;
 }
 
+tr:hover{
+  background-color: rgba(126 8 37 / 25%);
+}
+
 
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
